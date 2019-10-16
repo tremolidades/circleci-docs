@@ -28,7 +28,7 @@ Language Guide | Framework | GitHub Repo Name
  [Python]{:target="_blank"} | Django | [circleci-demo-python-django]{:target="_blank"}
  [Python]({{ site.baseurl }}/2.0/project-walkthrough/){:target="_blank"} | Flask | [circleci-demo-python-flask]{:target="_blank"}
  [React Native](https://github.com/CircleCI-Public/circleci-demo-react-native/blob/master/README.md){:target="_blank"} | React Native | [circleci-demo-react-native]{:target="_blank"}
- [Ruby and Rails]{:target="_blank"} | Rails | [circleci-demo-ruby-rails]{:target="_blank"}
+ [Ruby]{:target="_blank"} | Ruby on Rails | [circleci-demo-ruby-rails]{:target="_blank"}
  [Scala]({{ site.baseurl }}/2.0/language-scala/){:target="_blank"} | sbt | [samplescala](https://github.com/ariv3ra/samplescala){:target="_blank"}
  [Windows]({{ site.baseurl }}/2.0/hello-world-windows/){:target="_blank"} | .NET | [circleci-demo-windows](https://github.com/CircleCI-Public/circleci-demo-windows/){:target="_blank"}
 {: class="table"}
